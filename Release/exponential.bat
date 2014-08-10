@@ -1,0 +1,1 @@
+sp.exe -n 2 -p -e 10 -j 1 -f "example.txt" -o "exp.txt"
